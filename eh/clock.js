@@ -37,17 +37,17 @@ function numberToimagesOfyou(s, h) {
 
 
 var img = {
-  "1": "1.png",
-  "2": "2.png",
-  "3": "3.png",
-  "4": "4.png",
-  "5": "5.png",
-  "6": "6.png",
-  "7": "7.png",
-  "8": "8.png",
-  "9": "9.png",
-  "0": "0.png",
-  ":": "colon.png"
+  "1": "1.PNG",
+  "2": "2.PNG",
+  "3": "3.PNG",
+  "4": "4.PNG",
+  "5": "5.PNG",
+  "6": "6.PNG",
+  "7": "7.PNG",
+  "8": "8.PNG",
+  "9": "9.PNG",
+  "0": "0.PNG",
+  ":": "colon.PNG"
 }
 
 //code in part derived from https://stackoverflow.com/questions/42964421/digital-clock-with-images
